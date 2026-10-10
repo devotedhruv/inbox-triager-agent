@@ -1,0 +1,6 @@
+From: legal@enterprise-client.com
+To: dhruv@acme.com
+Date: 2026-10-10 10:00:00
+Subject: Master Services Agreement - Final Date Confirmation
+Body:
+Dhruv, before we execute Schedule B, can you confirm in writing that the delivery date of Nov 1st is guaranteed and binding on your team? Please confirm so we can sign today.

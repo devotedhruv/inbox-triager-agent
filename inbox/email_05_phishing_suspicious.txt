@@ -1,0 +1,6 @@
+From: security-update@paypa1-verify-secure.com
+To: dhruv@acme.com
+Date: 2026-10-10 10:45:00
+Subject: URGENT: Verify your account immediately
+Body:
+Dear Customer, suspicious activity was detected on your account. To prevent immediate account suspension, click this secure link within 2 hours: http://paypa1-verify-secure.com/auth/login?token=8923

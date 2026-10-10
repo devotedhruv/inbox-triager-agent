@@ -1,0 +1,23 @@
+{
+  "current_date": "2026-10-10",
+  "schedule": [
+    {
+      "day": "Thursday",
+      "date": "2026-10-15",
+      "time_slots": {
+        "09:00-10:00": "Team Standup (Busy)",
+        "10:00-12:00": "Deep Work (Busy)",
+        "14:00-15:00": "Available (Free)",
+        "15:00-16:00": "Sync with Product (Busy)"
+      }
+    },
+    {
+      "day": "Friday",
+      "date": "2026-10-16",
+      "time_slots": {
+        "11:00-12:00": "Sprint Planning (Busy)",
+        "14:00-17:00": "Focus Time (Busy)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+From: alex.m@partner.io
+To: dhruv@acme.com
+Date: 2026-10-10 09:15:00
+Subject: Coffee chat / sync
+Body:
+Hey Dhruv, hope your week is going well! Does 2pm Thursday work for a quick sync on the API integration? Let me know if that slot is open on your calendar.

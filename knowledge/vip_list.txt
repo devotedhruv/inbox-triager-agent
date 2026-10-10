@@ -1,0 +1,5 @@
+# VIP Senders List
+sarah.chen@acme.com (Manager)
+marcus.vance@investorpartners.com (Lead Investor)
+dr.thakuri@family.org (Family)
+legal@enterprise-client.com (Key Enterprise Client)

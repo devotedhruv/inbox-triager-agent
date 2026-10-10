@@ -1,0 +1,6 @@
+From: sarah.chen@acme.com
+To: dhruv@acme.com
+Date: 2026-10-10 08:30:00
+Subject: quick q
+Body:
+Hey Dhruv, do you have 5 minutes to look over the deck before tomorrow? Let me know what you think of the architecture slide.

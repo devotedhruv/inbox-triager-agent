@@ -1,0 +1,7 @@
+From: newsletter@acme.com
+To: dhruv@acme.com
+Date: 2026-10-10 07:00:00
+Subject: Acme Engineering Monthly Digest #42
+Body:
+Welcome to the October edition of the Acme Engineering Digest! Top highlights: new microservices deployment standards, Kubernetes migration update, and tech talks schedule.
+To manage your subscription or unsubscribe, click here: https://acme.com/newsletter/unsub
